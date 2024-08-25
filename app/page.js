@@ -66,14 +66,17 @@ export default function Home() {
         justifyContent="center"
         alignItems="center"
       >
-        <Stack
-          direction={'column'}
-          width="500px"
-          height="700px"
-          border="1px solid black"
-          p={2}
-          spacing={3}
-        >
+      
+    <Stack direction = "column" width = "500px" height = "700px" border = "1px solid black"    overflow="auto"  p = {2} spacing={3} sx={{
+        width: {
+          xs: '100%', // 100% width on extra-small screens
+          sm: '80%',  // 80% width on small screens
+          md: '70%',  // 70% width on medium screens
+          lg: '60%',  // 60% width on large screens
+          xl: '50%'   // 50% width on extra-large screens
+        },
+      
+      }} >
           <Stack
             direction={'column'}
             spacing={2}
