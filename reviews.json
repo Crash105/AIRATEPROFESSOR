@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Johnson's lectures are engaging and well-structured. She really knows how to make complex concepts understandable."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant professor! His passion for coding is contagious. Challenging assignments, but you'll learn a ton."
+    },
+    {
+      "professor": "Dr. Sarah Thompson",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Decent lecturer, but the course material could be more up-to-date. Office hours are helpful."
+    },
+    {
+      "professor": "Prof. David Martinez",
+      "subject": "History",
+      "stars": 4,
+      "review": "Prof. Martinez brings history to life with his storytelling. Exams are tough but fair."
+    },
+    {
+      "professor": "Dr. Rachel Kim",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Best chemistry professor I've had! Clear explanations and great lab sessions. Always available for extra help."
+    },
+    {
+      "professor": "Prof. Robert Taylor",
+      "subject": "Economics",
+      "stars": 2,
+      "review": "Dry lectures and unclear expectations. Seems knowledgeable but struggles to convey concepts effectively."
+    },
+    {
+      "professor": "Dr. Lisa Patel",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Dr. Patel is patient and thorough. Her step-by-step approach to problem-solving is very helpful."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "English Literature",
+      "stars": 3,
+      "review": "Passionate about the subject, but can be a harsh grader. Discussions in class are thought-provoking."
+    },
+    {
+      "professor": "Dr. Anna Kowalski",
+      "subject": "Physics",
+      "stars": 5,
+      "review": "Dr. Kowalski makes physics fun! Her demos and experiments really help illustrate complex concepts."
+    },
+    {
+      "professor": "Prof. John Smith",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Challenging but rewarding course. Prof. Smith encourages critical thinking and lively debates."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Interesting topics, but the workload can be overwhelming at times. Dr. Garcia is approachable and helpful."
+    },
+    {
+      "professor": "Prof. Thomas Brown",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Very knowledgeable professor. Lectures can be dense, but the content is valuable and relevant."
+    },
+    {
+      "professor": "Dr. Olivia Lee",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Lee's passion for art is infectious. Her lectures are like guided tours through time. Absolutely fantastic!"
+    },
+    {
+      "professor": "Prof. Alexander Ivanov",
+      "subject": "Engineering",
+      "stars": 2,
+      "review": "Brilliant mind, but poor teaching skills. Expects students to know everything already. Very frustrating."
+    },
+    {
+      "professor": "Dr. Samantha Wright",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Dr. Wright brings real-world examples into the classroom. Field trips are a highlight of the course."
+    },
+    {
+      "professor": "Prof. Daniel Lee",
+      "subject": "Music Theory",
+      "stars": 3,
+      "review": "Knows his stuff, but can be a bit disorganized. Grading is fair, and he's always willing to help."
+    },
+    {
+      "professor": "Dr. Elizabeth Carter",
+      "subject": "Neuroscience",
+      "stars": 5,
+      "review": "Dr. Carter is at the top of her field. Challenging course, but incredibly rewarding. Great research opportunities."
+    },
+    {
+      "professor": "Prof. Christopher Wong",
+      "subject": "Business Administration",
+      "stars": 4,
+      "review": "Prof. Wong brings real-world business experience to the classroom. Group projects are particularly valuable."
+    },
+    {
+      "professor": "Dr. Natalie Foster",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Interesting course content, but Dr. Foster can sometimes go off on tangents. Assignments are creative and engaging."
+    },
+    {
+      "professor": "Prof. Kevin O'Brien",
+      "subject": "Film Studies",
+      "stars": 5,
+      "review": "Prof. O'Brien's knowledge of cinema is encyclopedic. Watching films in class followed by analysis is eye-opening."
+    }
+  ]
+}
