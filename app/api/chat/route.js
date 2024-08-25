@@ -20,7 +20,7 @@ const systemPrompt =
 1. A brief introdiction addressing the students specific request
 2. Top 3 Professor Recommendations:
     - Professors Name(Subject) - Star Rating
-    - Less than 15 word summary of professors teaching style, strenghs, and any relevant details from reviews
+    - Less than 15 word summary of professors teaching style, strenghs, and any relevant details based on professor review. Do not add new info
 
 3. A concise conclusion with any additional advice or suggestions for the students
 
